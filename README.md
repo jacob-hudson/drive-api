@@ -2,4 +2,5 @@
 Using Google Drive as Remote Storage
 
 ## API Reference
-- https://developers.google.com/drive/v2/reference/
+- v2 - https://developers.google.com/drive/v2/reference/
+- v3 - https://developers.google.com/drive/v3/reference/
