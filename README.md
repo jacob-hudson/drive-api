@@ -7,3 +7,6 @@ Using Google Drive as Remote Storage
 
 ## OAuth Reference
 - https://developers.google.com/identity/protocols/OAuth2
+
+## Exmaple Use Cases
+- Storing Hashicorp Packer Images in Google Drive
